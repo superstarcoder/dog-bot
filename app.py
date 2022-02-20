@@ -1,4 +1,3 @@
-from matplotlib.pyplot import text
 from nextcord.ext import commands
 import requests, json, random, datetime, asyncio
 from PIL import Image, ImageFont, ImageDraw
